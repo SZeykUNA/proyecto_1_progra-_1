@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Reportes.obj",
+            "outputs": [
+                "x64\\Debug\\Reportes.h.obj.dt.module.json",
+                "x64\\Debug\\Reportes.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
